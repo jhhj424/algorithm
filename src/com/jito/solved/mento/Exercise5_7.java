@@ -10,7 +10,7 @@ class Exercise5_7 {
 //        }
         Scanner scan = new Scanner(System.in);
 
-//        int money = Integer.parseInt(args[0]);
+//      int money = Integer.parseInt(args[0]);
         int money = scan.nextInt();
 
         System.out.println("money=" + money);
