@@ -6,12 +6,11 @@ public class level1_1 {
     public static void main(String[] args) {
         String[] participant = {"leo", "kiki", "eden"};
         String[] completion = {"eden", "kiki"};
-        String result = solution(participant, completion);
+        String result = 완주하지못한선수(participant, completion);
 
         System.out.println(result);
     }
-
-    public static String solution(String[] participant, String[] completion) {
+    public static String 완주하지못한선수(String[] participant, String[] completion) {
         String answer = "";
         Arrays.sort(participant);
         Arrays.sort(completion);
