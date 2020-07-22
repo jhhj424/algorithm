@@ -28,7 +28,7 @@ public class hash_level2_2 {
         int answer = 1;
         HashMap<String, Integer> map = new HashMap<>();
         for(String[] c: clothes) {
-            if(map.get(c[1]) == null) {
+            if(!map.containsKey(c[1])) {
                 map.put(c[1],2);
             }else {
                 map.put(c[1],map.get(c[1])+1);
