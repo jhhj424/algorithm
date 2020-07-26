@@ -19,7 +19,6 @@ public class GCD_LCM_2 {
         }else {
             big = b;
             small = a;
-
         }
         int gcd = gcd(big, small);
         answer[0] = gcd;
