@@ -1,5 +1,5 @@
 package com.jito.solved;
-257c8cd3d70a152f499d9e85e05674912db0ac9b
+
 /*
 * 구구단 출력문제
 * 정답포맷 :

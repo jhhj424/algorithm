@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="889b881d-42e5-49ef-b024-8500f6d3cfc9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jito/solved/java_solved_4_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jito/solved/java_solved_4_12.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="java_solved_4_12.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jito/solved/java_solved_4_12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -367,7 +368,7 @@
       <workItem from="1593481282284" duration="3475000" />
       <workItem from="1593507497128" duration="261000" />
       <workItem from="1593569288304" duration="1574000" />
-      <workItem from="1596094572085" duration="606000" />
+      <workItem from="1596094572085" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="자바의 정석 문제풀이 - 자바 멘토링">
       <created>1593507743523</created>
@@ -383,11 +384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596094701228</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Algorithm Commit">
+      <created>1596095186513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596095186513</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5916000" />
+    <option name="totallyTimeSpent" value="6247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2553" y="-7" width="2062" height="1166" extended-state="6" />
@@ -586,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jito/solved/java_solved_4_12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
