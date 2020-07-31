@@ -43,6 +43,6 @@ public class GCD_LCM_2 {
     // 아래는 테스트로 출력해 보기 위한 코드입니다.
     public static void main(String[] args) {
         GCD_LCM_2 c = new GCD_LCM_2();
-        System.out.println(Arrays.toString(c.gcdlcm(1, 5)));
+        System.out.println(Arrays.toString(c.gcdlcm(143, 5)));
     }
 }
