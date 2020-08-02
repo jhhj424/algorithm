@@ -47,6 +47,7 @@ public class bridgeTruck {
         return time;
     }
 }
+
 class Truck{
     int weigth;
     int time;
