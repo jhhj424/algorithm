@@ -31,18 +31,17 @@ import java.util.Arrays;
  */
 
 // 20200804 : 테스트케이스 올 성공, 효율성 실패 -> 재귀구현하면 안될듯..
+// 실패
 
-public class Problem_2 {
+public class Problem_2_1 {
+    static int cnt = 0;
     public static void main(String[] args) {
         int[] scoville = {1, 2, 3};
         System.out.println(solution(scoville, 13)); // answer: 2
     }
 
     public static int solution(int[] scoville, int K) {
-        return mix(scoville, K, 0);
-    }
-
-    public static int mix(int[] scoville, int K, int cnt) {
+        cnt = cnt + 1;
         if(scoville.length-1 == 0) {
             if(scoville[0] > K){
                 return cnt;
@@ -56,7 +55,7 @@ public class Problem_2 {
             for(int i=1; i<scoville.length-1; i++) {
                 newScoville[i] = scoville[i+1];
             }
-            return mix(newScoville, K, cnt+1);
+            return solution(newScoville, K);
         }else {
             return cnt;
         }
