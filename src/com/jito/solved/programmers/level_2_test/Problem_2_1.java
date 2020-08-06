@@ -1,6 +1,8 @@
 package com.jito.solved.programmers.level_2_test;
 
 import java.util.Arrays;
+import java.util.PriorityQueue;
+import java.util.Queue;
 
 /**
  * 문제 설명
@@ -31,33 +33,39 @@ import java.util.Arrays;
  */
 
 // 20200804 : 테스트케이스 올 성공, 효율성 실패 -> 재귀구현하면 안될듯..
-// 실패
+// 힙 - 우선순위큐 사용
 
 public class Problem_2_1 {
-    static int cnt = 0;
     public static void main(String[] args) {
-        int[] scoville = {1, 2, 3};
-        System.out.println(solution(scoville, 13)); // answer: 2
+        int[] scoville = {1,2,3};
+        System.out.println(solution(scoville, 11)); // answer: 2
     }
 
     public static int solution(int[] scoville, int K) {
-        cnt = cnt + 1;
-        if(scoville.length-1 == 0) {
-            if(scoville[0] > K){
-                return cnt;
-            }
-            return -1;
+        int answer = -1;
+        int cnt = 0;
+        int sc1 = 0, sc2 = 0;
+
+        Queue<Integer> pq = new PriorityQueue<Integer>();
+
+        for(int i: scoville) {
+            pq.offer(i);
         }
-        int[] newScoville = new int[scoville.length-1];
-        Arrays.sort(scoville);
-        if(scoville[0] < K) {
-            newScoville[0] = scoville[0] + (scoville[1]*2);
-            for(int i=1; i<scoville.length-1; i++) {
-                newScoville[i] = scoville[i+1];
+
+        while(pq.size() > 1) {
+            if(pq.peek() >= K) {
+                answer = cnt;
+                break;
             }
-            return solution(newScoville, K);
-        }else {
-            return cnt;
+            sc1 = pq.poll();
+            sc2 = pq.poll();
+            pq.offer(sc1 + (sc2*2));
+            cnt++;
         }
+
+        if(pq.poll() > K)
+            answer = cnt;
+
+        return answer;
     }
 }
