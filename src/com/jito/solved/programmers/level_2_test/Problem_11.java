@@ -1,7 +1,7 @@
 package com.jito.solved.programmers.level_2_test;
 
 /*
-    프로그래머스 - 연습문제 - 가장 큰 정사각형 찾기
+    프로그래머스 - 연습문제 - 가장 큰 정사각형 찾기 : https://programmers.co.kr/learn/courses/30/lessons/12905
  */
 public class Problem_11 {
     public static void main(String[] args) {
