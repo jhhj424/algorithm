@@ -24,8 +24,6 @@ public class test_02 {
         System.out.println(solution(s));
     }
     public static int solution(String[] lines) {
-        if(lines.length < 2)
-            return lines.length;
         int answer = 0;
         ArrayList<Time> list = new ArrayList<>();
         for (String line : lines) {
