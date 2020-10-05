@@ -29,15 +29,21 @@ public class test_02 {
         for (String line : lines) {
             String[] split = line.split(" ");
 
+            // end : 입력으로 주어졌던 작업 끝난시간
             double end = Double.parseDouble(split[1].substring(0, 2)) * 3600; // 시간
             end += Double.parseDouble(split[1].substring(3, 5)) * 60; // 분
             end += Double.parseDouble(split[1].substring(6, 12)); // 초
 
+            // d : 작업소요시간
             double d = Double.parseDouble(split[2].substring(0, split[2].length() - 1)) - 0.001;
-            d = Math.round(d * 1000) / 1000.0;
-            double start = Math.round((end - d) * 1000) / 1000.0;
+
+            // start : end - d 를 한 작업 시작시간
+            double start = end - d;
+
             list.add(new Time(start,end));
         }
+
+        // 반복을 돌면서 기준시간의 작업 끝난시간 + 0.999초 이내의 작업이 돌고있으면 카운트++
         for (int i=0; i<list.size(); i++) {
             int cnt = 0;
             double p = Math.round((list.get(i).end + 0.999) * 1000) / 1000.0;
