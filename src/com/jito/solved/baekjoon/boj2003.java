@@ -26,15 +26,14 @@ public class boj2003 {
             for(int i=0; i<=right; i++) {
                 sum += arr[i];
             }
+            if(sum == target) result++;
+            right++;
 
             // right 인덱스의 범위가 n을 벗어나기 전까지 반복
             while(right < n) {
-
                 // [윈도우] 의 다음 범위는 [윈도우] - arr[left] + arr[right] 임.
-                if(left >= 0) // left값은 0과 같거나 커야함
-                    sum -= arr[left++];
+                sum -= arr[left++];
                 sum += arr[right++];
-
                 // target 값과 비교하여 같다면 result 값 1 증가
                 if(sum == target) result++;
             }
