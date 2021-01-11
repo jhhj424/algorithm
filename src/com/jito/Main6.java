@@ -105,24 +105,5 @@ A → (0,0), (2,0), (4,0), B → (1,0), (3,0)
 public class Main6 {
 
     public static void main(String[] args) {
-        int[] a = {9,1,5,10,3};
-        for (int i = 0; i<4; i++){
-
-            for (int j = 0; j<4 - i; j++){
-
-                if (a[j] > a[j + 1])
-
-                {
-
-                    int tmp = a[j]; a[j] = a[j + 1]; a[j + 1] = tmp;
-                    System.out.println(1);
-
-
-
-                }
-
-            }
-
-        }
     }
 }

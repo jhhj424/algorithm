@@ -19,26 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40313846-453d-4842-ae39-ce7cded9fb37" name="Default" comment="import java.io.PrintStream;">
-      <change afterPath="$PROJECT_DIR$/src/com/jito/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/kakao/mobility/Problem_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/kakao/mobility/Problem_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/kakao/mobility/Problem_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/programmers/challenge/oct3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/jito/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/jito/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jito/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jito/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jito/solved/algorithm/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jito/solved/algorithm/Combination.java" afterDir="false" />
-    </list>
+    <list default="true" id="40313846-453d-4842-ae39-ce7cded9fb37" name="Default" comment="import java.io.PrintStream;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/jito/barkingdog/sort" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -289,6 +271,7 @@
       <workItem from="1609858172417" duration="188000" />
       <workItem from="1609942424917" duration="1463000" />
       <workItem from="1610027153262" duration="737000" />
+      <workItem from="1610463888900" duration="214000" />
     </task>
     <task id="LOCAL-00070" summary="프로그래머스 - 2017 카카오코드 예선 - 보행자 천국 [DP] : https://programmers.co.kr/learn/courses/30/lessons/1832?language=java">
       <created>1601996711889</created>
