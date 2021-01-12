@@ -1,115 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/jito/solved/programmers/bridgeTruck.java" line="34" />
-    <bookmark url="file://$PROJECT_DIR$/src/com/jito/solved/Toss_1.java" line="20" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40313846-453d-4842-ae39-ce7cded9fb37" name="Default" comment="commit">
+    <list default="true" id="40313846-453d-4842-ae39-ce7cded9fb37" name="Default" comment="import java.io.PrintStream;">
+      <change afterPath="$PROJECT_DIR$/src/com/jito/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/hackerrank/Problem04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/kakao/mobility/Problem_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/kakao/mobility/Problem_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/kakao/mobility/Problem_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jito/solved/programmers/challenge/oct3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/jito/solved/java_solved_4_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/jito/solved/java_solved_4_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/jito/solved/programmers/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/jito/solved/programmers/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/jito/solved/programmers/bridgeTruck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/jito/solved/programmers/bridgeTruck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/jito/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/jito/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jito/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jito/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jito/solved/algorithm/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jito/solved/algorithm/Combination.java" afterDir="false" />
     </list>
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Toss_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toss_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toss_3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#967#968#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toss_4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="652" selection-start-line="652" selection-end-line="652" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toss_5.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toss_6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toss_7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,223 +51,153 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>compute</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/jito/solved/programmers/GCD_LCM_2.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/programmers/bridgeTruck.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/programmers/Test0801_1.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/toss_2.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/Toss_6.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/Toss_7.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/Toss_1.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/Toss_2.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/Toss_3.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/Toss_4.java" />
-        <option value="$PROJECT_DIR$/src/com/jito/solved/Toss_5.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1304" />
-    <option name="width" value="1263" />
-    <option name="height" value="1087" />
-  </component>
+  <component name="ProjectId" id="1jLutLT4Yau3myiWPEHBc3bfRTI" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jito" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jito" type="462c0819:PsiDirectoryNode" />
-              <item name="solved" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/jito/barkingdog/sort" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.jito.solved" />
+      <recent name="com.jito.barkingdog.array" />
+      <recent name="com.jito.solved.programmers" />
+      <recent name="com.jito" />
+      <recent name="com.jito.solved.programmers.level_2_test" />
+      <recent name="com.jito.solved.baekjoon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jiho\IdeaProjects\algorithm\src\com\jito\barkingdog\sort" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Toss_4">
-    <configuration name="Toss_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jito.solved.Toss_1" />
+  <component name="RunManager" selected="Application.boj1316">
+    <configuration name="Boj10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jito.barkingdog.array.Boj10807" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jito.solved.*" />
+          <option name="PATTERN" value="com.jito.barkingdog.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Toss_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jito.solved.Toss_2" />
+    <configuration name="Boj10808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jito.barkingdog.array.Boj10808" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jito.solved.*" />
+          <option name="PATTERN" value="com.jito.barkingdog.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="Toss_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jito.solved.Toss_3" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jito.solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Toss_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jito.solved.Toss_4" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jito.solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Toss_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jito.solved.Toss_5" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jito.solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boj1145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jito.solved.baekjoon.boj1145" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jito.solved.baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boj1316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jito.solved.baekjoon.boj1316" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jito.solved.baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boj1464" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jito.solved.baekjoon.boj1464" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jito.solved.baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Toss_1" />
-      <item itemvalue="Application.Toss_2" />
-      <item itemvalue="Application.Toss_3" />
-      <item itemvalue="Application.Toss_4" />
-      <item itemvalue="Application.Toss_5" />
+      <item itemvalue="Application.boj1145" />
+      <item itemvalue="Application.boj1464" />
+      <item itemvalue="Application.Boj10808" />
+      <item itemvalue="Application.Boj10807" />
+      <item itemvalue="Application.boj1316" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Toss_4" />
-        <item itemvalue="Application.Toss_5" />
-        <item itemvalue="Application.Toss_3" />
-        <item itemvalue="Application.Toss_2" />
-        <item itemvalue="Application.Toss_1" />
+        <item itemvalue="Application.boj1316" />
+        <item itemvalue="Application.Boj10807" />
+        <item itemvalue="Application.Boj10808" />
+        <item itemvalue="Application.boj1464" />
+        <item itemvalue="Application.boj1145" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +206,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7bc5e52a-c66b-4a1d-9030-0ea46700d20f" name="Default" comment="" />
+      <changelist id="40313846-453d-4842-ae39-ce7cded9fb37" name="Default" comment="commit" />
       <created>1594742704541</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -361,166 +224,420 @@
       <workItem from="1595776138974" duration="198000" />
       <workItem from="1596207096144" duration="676000" />
       <workItem from="1596208424730" duration="4179000" />
+      <workItem from="1596379061100" duration="313000" />
+      <workItem from="1597475682482" duration="8000" />
+      <workItem from="1599733463000" duration="13485000" />
+      <workItem from="1599884233983" duration="27484000" />
+      <workItem from="1600182536784" duration="2056000" />
+      <workItem from="1600269766205" duration="1447000" />
+      <workItem from="1600353346031" duration="2456000" />
+      <workItem from="1600484745570" duration="25000" />
+      <workItem from="1600611881274" duration="1194000" />
+      <workItem from="1600690201880" duration="7734000" />
+      <workItem from="1600778009714" duration="8931000" />
+      <workItem from="1600876475557" duration="447000" />
+      <workItem from="1600876949494" duration="3062000" />
+      <workItem from="1600948325914" duration="12154000" />
+      <workItem from="1600962901086" duration="724000" />
+      <workItem from="1601090405231" duration="23657000" />
+      <workItem from="1601162956073" duration="9304000" />
+      <workItem from="1601218150860" duration="2098000" />
+      <workItem from="1601301942312" duration="5709000" />
+      <workItem from="1601702161368" duration="6223000" />
+      <workItem from="1601744078253" duration="210000" />
+      <workItem from="1601815434435" duration="3712000" />
+      <workItem from="1601899547654" duration="9665000" />
+      <workItem from="1601991154408" duration="7307000" />
+      <workItem from="1602083207285" duration="881000" />
+      <workItem from="1602152781045" duration="17592000" />
+      <workItem from="1602233815197" duration="15446000" />
+      <workItem from="1602299449766" duration="16342000" />
+      <workItem from="1602388091139" duration="465000" />
+      <workItem from="1602388585567" duration="78000" />
+      <workItem from="1602428758354" duration="667000" />
+      <workItem from="1602516184968" duration="1739000" />
+      <workItem from="1602518968287" duration="918000" />
+      <workItem from="1602602493780" duration="1963000" />
+      <workItem from="1602713372957" duration="645000" />
+      <workItem from="1602785699687" duration="322000" />
+      <workItem from="1603377817803" duration="6343000" />
+      <workItem from="1603519779941" duration="225000" />
+      <workItem from="1603594266567" duration="5000" />
+      <workItem from="1603595908194" duration="6316000" />
+      <workItem from="1603608023856" duration="6493000" />
+      <workItem from="1603637956827" duration="631000" />
+      <workItem from="1603800449022" duration="8739000" />
+      <workItem from="1603886769608" duration="8825000" />
+      <workItem from="1603973196875" duration="9840000" />
+      <workItem from="1604070682150" duration="2057000" />
+      <workItem from="1604072800640" duration="92000" />
+      <workItem from="1604113698373" duration="16307000" />
+      <workItem from="1604239953671" duration="5697000" />
+      <workItem from="1604417367104" duration="3215000" />
+      <workItem from="1604502448287" duration="6227000" />
+      <workItem from="1604572102538" duration="8918000" />
+      <workItem from="1604724419194" duration="2440000" />
+      <workItem from="1604836680085" duration="159000" />
+      <workItem from="1604931891220" duration="2274000" />
+      <workItem from="1606317236653" duration="206000" />
+      <workItem from="1606490447424" duration="965000" />
+      <workItem from="1606833492398" duration="441000" />
+      <workItem from="1607352725485" duration="183000" />
+      <workItem from="1609166813969" duration="371000" />
+      <workItem from="1609604396683" duration="1675000" />
+      <workItem from="1609771823782" duration="182000" />
+      <workItem from="1609858172417" duration="188000" />
+      <workItem from="1609942424917" duration="1463000" />
+      <workItem from="1610027153262" duration="737000" />
     </task>
-    <task id="LOCAL-00001" summary="20200725">
-      <created>1594742781697</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00070" summary="프로그래머스 - 2017 카카오코드 예선 - 보행자 천국 [DP] : https://programmers.co.kr/learn/courses/30/lessons/1832?language=java">
+      <created>1601996711889</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
       <option name="project" value="LOCAL" />
-      <updated>1594742781697</updated>
+      <updated>1601996711889</updated>
     </task>
-    <task id="LOCAL-00002" summary="20200722 해시를 이용한 문제풀이1 - 완주하지 못한 선수">
-      <created>1595346953854</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00071" summary="프로그래머스 - 연습문제 - 숫자의 표현 : https://programmers.co.kr/learn/courses/30/lessons/12924?language=java">
+      <created>1601997270630</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
       <option name="project" value="LOCAL" />
-      <updated>1595346953854</updated>
+      <updated>1601997270630</updated>
     </task>
-    <task id="LOCAL-00003" summary="20200722 문제풀이 레벨2 전화번호목록">
-      <created>1595348653725</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00072" summary="프로그래머스 - 연습문제 - 숫자의 표현 : https://programmers.co.kr/learn/courses/30/lessons/12924?language=java">
+      <created>1601997407937</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
       <option name="project" value="LOCAL" />
-      <updated>1595348653725</updated>
+      <updated>1601997407937</updated>
     </task>
-    <task id="LOCAL-00004" summary="20200722 문제풀이 레벨2 전화번호목록">
-      <created>1595348672370</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00073" summary="프로그래머스 - 연습문제 - N개의 최소공배수 : https://programmers.co.kr/learn/courses/30/lessons/12953?language=java">
+      <created>1601999538492</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
       <option name="project" value="LOCAL" />
-      <updated>1595348672370</updated>
+      <updated>1601999538492</updated>
     </task>
-    <task id="LOCAL-00005" summary="20200722 코딩테스트 연습 &gt; 해시 &gt; 위장">
-      <created>1595426819374</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00074" summary="2020-10-08 : 10진수 -&gt; 3진수 -&gt; 10진수 변환">
+      <created>1602167590597</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
       <option name="project" value="LOCAL" />
-      <updated>1595426819374</updated>
+      <updated>1602167590598</updated>
     </task>
-    <task id="LOCAL-00006" summary="20200722 코딩테스트 연습 &gt; 해시 &gt; 베스트앨범 -- 풀이중...">
-      <created>1595435903897</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00075" summary="2020-10-08 : 쿼드트리 - 분할정복">
+      <created>1602167604011</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
       <option name="project" value="LOCAL" />
-      <updated>1595435903897</updated>
+      <updated>1602167604011</updated>
     </task>
-    <task id="LOCAL-00007" summary="20200722 코딩테스트 연습 &gt; 해시 &gt; 베스트앨범">
-      <created>1595591773207</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00076" summary="[백준] 분할정복 - 쿼드트리 : https://www.acmicpc.net/problem/1992">
+      <created>1602175263512</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
       <option name="project" value="LOCAL" />
-      <updated>1595591773207</updated>
+      <updated>1602175263512</updated>
     </task>
-    <task id="LOCAL-00008" summary="20200725">
-      <created>1595688565659</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00077" summary="프로그래머스 - 월간 코드 챌린지 시즌1 - 삼각 달팽이 : https://programmers.co.kr/learn/courses/30/lessons/68645?language=java">
+      <created>1602243871383</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
       <option name="project" value="LOCAL" />
-      <updated>1595688565659</updated>
+      <updated>1602243871384</updated>
     </task>
-    <task id="LOCAL-00009" summary="20200726 - 최대공약수, 최소공배수 문제 풀이 2가지">
-      <created>1595744157075</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00078" summary="백준 1913번 문제 : 달팽이 : https://www.acmicpc.net/problem/1913">
+      <created>1602247708117</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
       <option name="project" value="LOCAL" />
-      <updated>1595744157075</updated>
+      <updated>1602247708117</updated>
     </task>
-    <task id="LOCAL-00010" summary="20200726 - 최대공약수, 최소공배수 문제 풀이 2가지">
-      <created>1595744229475</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00079" summary="프로그래머스 - 월간 코드 챌린지 시즌1 - 풍선 터트리기 : https://programmers.co.kr/learn/courses/30/lessons/68646?language=java">
+      <created>1602258879672</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1595744229475</updated>
+      <updated>1602258879672</updated>
     </task>
-    <task id="LOCAL-00011" summary="20200727">
-      <created>1595776324825</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00080" summary="백준 1926번 : 그림 : BFS : https://www.acmicpc.net/problem/1926">
+      <created>1602262188671</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1595776324825</updated>
+      <updated>1602262188671</updated>
     </task>
-    <task id="LOCAL-00012" summary="commit">
-      <created>1596208548333</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00081" summary="프로그래머스 - DFS - 단어 변환 : https://programmers.co.kr/learn/courses/30/lessons/43163?language=java">
+      <created>1602304895903</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1596208548333</updated>
+      <updated>1602304895903</updated>
     </task>
-    <task id="LOCAL-00013" summary="20200801">
-      <created>1596266963218</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00082" summary="백준 1697번 문제 : 숨바꼭질 : bfs : https://www.acmicpc.net/problem/1697">
+      <created>1602388616515</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
       <option name="project" value="LOCAL" />
-      <updated>1596266963218</updated>
+      <updated>1602388616517</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00083" summary="백준 4179번 문제 : 불! : BFS : https://www.acmicpc.net/problem/4179">
+      <created>1602388640770</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1602388640770</updated>
+    </task>
+    <task id="LOCAL-00084" summary="백준 7576 문제 : 토마토 : bfs : https://www.acmicpc.net/problem/7576">
+      <created>1602428811572</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1602428811572</updated>
+    </task>
+    <task id="LOCAL-00085" summary="프로그래머스 Dev_Matching 2020 하반기 문제 (1, 3)">
+      <created>1602516293240</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1602516293241</updated>
+    </task>
+    <task id="LOCAL-00086" summary="백준 13549번 문제 : 숨바꼭질3 : bfs : https://www.acmicpc.net/problem/13549">
+      <created>1602517882641</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1602517882641</updated>
+    </task>
+    <task id="LOCAL-00087" summary="프로그래머스 - JadenCase 문자열 만들기 : https://programmers.co.kr/learn/courses/30/lessons/12951?language=java">
+      <created>1602605208596</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1602605208597</updated>
+    </task>
+    <task id="LOCAL-00088" summary="전구문제 풀이중..">
+      <created>1602713405192</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1602713405192</updated>
+    </task>
+    <task id="LOCAL-00089" summary="프로그래머스 - Summer/Winter Coding(~2018) - 영어 끝말잇기 : https://programmers.co.kr/learn/courses/30/lessons/12981?language=java">
+      <created>1602786013336</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1602786013337</updated>
+    </task>
+    <task id="LOCAL-00090" summary="프로그래머스 - 2020 카카오 인턴십 - 키패드 누르기 : https://programmers.co.kr/learn/courses/30/lessons/67256?language=java">
+      <created>1603383913299</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1603383913300</updated>
+    </task>
+    <task id="LOCAL-00091" summary="배열로 스택 구현하기 - 스택의 개념 학습">
+      <created>1603599028494</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1603599028495</updated>
+    </task>
+    <task id="LOCAL-00092" summary="https://www.acmicpc.net/problem/15649 - N과 M (1) 백트래킹 문제">
+      <created>1603602689145</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1603602689145</updated>
+    </task>
+    <task id="LOCAL-00093" summary="https://www.acmicpc.net/problem/15650 - N과 M (2) 백트래킹 문제">
+      <created>1603603819314</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1603603819315</updated>
+    </task>
+    <task id="LOCAL-00094" summary="단어 정렬 : https://www.acmicpc.net/problem/1181">
+      <created>1603806095361</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1603806095362</updated>
+    </task>
+    <task id="LOCAL-00095" summary="좌표 정렬하기2 : 정렬 : https://www.acmicpc.net/problem/11651">
+      <created>1603810943017</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810943017</updated>
+    </task>
+    <task id="LOCAL-00096" summary="나이순 정렬 : 정렬 : https://www.acmicpc.net/problem/10814">
+      <created>1603811055886</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1603811055886</updated>
+    </task>
+    <task id="LOCAL-00097" summary="백준 : 미로탐색 : BFS : https://www.acmicpc.net/problem/2178">
+      <created>1603897300765</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1603897300766</updated>
+    </task>
+    <task id="LOCAL-00098" summary="프로그래머스 - 2018 KAKAO BLIND RECRUITMENT - [1차] 비밀지도 : https://programmers.co.kr/learn/courses/30/lessons/17681?language=java">
+      <created>1603897316870</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1603897316870</updated>
+    </task>
+    <task id="LOCAL-00099" summary="프로그래머스 : 3진법 뒤집기 : https://programmers.co.kr/learn/courses/30/lessons/68935?language=java">
+      <created>1603978911280</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1603978911281</updated>
+    </task>
+    <task id="LOCAL-00100" summary="백준 : 수들의 합 2 : 슬라이딩 윈도우 : https://www.acmicpc.net/problem/2003">
+      <created>1603984418795</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1603984418795</updated>
+    </task>
+    <task id="LOCAL-00101" summary="프로그래머스 - 그래프 - 가장 먼 노드 : https://programmers.co.kr/learn/courses/30/lessons/49189?language=java">
+      <created>1604072540068</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1604072540073</updated>
+    </task>
+    <task id="LOCAL-00102" summary="프로그래머스 - 2017 카카오코드 예선 - 카카오프렌즈 컬러링북 : https://programmers.co.kr/learn/courses/30/lessons/1829?language=java">
+      <created>1604119143616</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1604119143617</updated>
+    </task>
+    <task id="LOCAL-00103" summary="알고리즘 369문제 풀이">
+      <created>1604240040316</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1604240040317</updated>
+    </task>
+    <task id="LOCAL-00104" summary="백준 : 수들의 합 2 : 슬라이딩 윈도우 : https://www.acmicpc.net/problem/2003">
+      <created>1604245510732</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1604245510732</updated>
+    </task>
+    <task id="LOCAL-00105" summary="최대공약수와 최소공배수 : 유클리드 호제법 : https://www.acmicpc.net/problem/2609">
+      <created>1604246857033</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1604246857033</updated>
+    </task>
+    <task id="LOCAL-00106" summary="최소공배수 : 유클리드호제법 활용 : https://www.acmicpc.net/problem/1934">
+      <created>1604246900843</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1604246900843</updated>
+    </task>
+    <task id="LOCAL-00107" summary="백준 문제 2470번 두 용액 : https://www.acmicpc.net/problem/2470">
+      <created>1604420304766</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1604420304766</updated>
+    </task>
+    <task id="LOCAL-00108" summary="프로그래머스 - 2018 KAKAO BLIND RECRUITMENT - [3차] 파일명 정렬 : https://programmers.co.kr/learn/courses/30/lessons/17686">
+      <created>1604510466584</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1604510466585</updated>
+    </task>
+    <task id="LOCAL-00109" summary="2020-11-08 21:00 프로그래머스 기출 문제">
+      <created>1604836813360</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1604836813361</updated>
+    </task>
+    <task id="LOCAL-00110" summary="백준 10872번 팩토리얼 : https://www.acmicpc.net/problem/10872">
+      <created>1604934581451</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1604934581451</updated>
+    </task>
+    <task id="LOCAL-00111" summary="백준 10870번 피보나치 수 5 : https://www.acmicpc.net/problem/10870">
+      <created>1604934590677</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1604934590677</updated>
+    </task>
+    <task id="LOCAL-00112" summary="백준 2447 별 찍기 10 : https://www.acmicpc.net/problem/2447">
+      <created>1604934601700</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1604934601700</updated>
+    </task>
+    <task id="LOCAL-00113" summary="ps : 백준 1145번 문제 - https://www.acmicpc.net/problem/1145">
+      <created>1607352815151</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1607352815152</updated>
+    </task>
+    <task id="LOCAL-00114" summary="ps : 백준 1463번 문제 : https://www.acmicpc.net/problem/1463">
+      <created>1609167108031</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1609167108032</updated>
+    </task>
+    <task id="LOCAL-00115" summary="배열문제 - 개수 세기 : https://www.acmicpc.net/problem/10807">
+      <created>1609605973539</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1609605973539</updated>
+    </task>
+    <task id="LOCAL-00116" summary="[배열] 알파벳 개수 : https://www.acmicpc.net/problem/10808">
+      <created>1609606032350</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1609606032350</updated>
+    </task>
+    <task id="LOCAL-00117" summary="그룹 단어 체커 : https://www.acmicpc.net/problem/1316">
+      <created>1609771989433</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1609771989433</updated>
+    </task>
+    <task id="LOCAL-00118" summary="[DFS,BFS] DFS와 BFS : https://www.acmicpc.net/problem/1260">
+      <created>1609858349964</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1609858349965</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14675000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1304" y="0" width="1263" height="1087" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3260188" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3322785" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24937657" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49958438" visible="true" weight="0.3322785" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004156" side_tool="true" weight="0.33016878" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32810867" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22859518" />
-      <window_info anchor="right" id="Key Promoter X" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -532,422 +649,264 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20200722 해시를 이용한 문제풀이1 - 완주하지 못한 선수" />
-    <MESSAGE value="20200722 문제풀이 레벨2 전화번호목록" />
-    <MESSAGE value="20200722 코딩테스트 연습 &gt; 해시 &gt; 위장" />
-    <MESSAGE value="20200722 코딩테스트 연습 &gt; 해시 &gt; 베스트앨범 -- 풀이중..." />
-    <MESSAGE value="20200722 코딩테스트 연습 &gt; 해시 &gt; 베스트앨범" />
-    <MESSAGE value="20200725" />
-    <MESSAGE value="20200726 - 최대공약수, 최소공배수 문제 풀이 2가지" />
-    <MESSAGE value="20200727" />
-    <MESSAGE value="commit" />
-    <MESSAGE value="20200801" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200801" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="https://www.acmicpc.net/problem/15650 - N과 M (2) 백트래킹 문제" />
+    <MESSAGE value="단어 정렬 : https://www.acmicpc.net/problem/1181" />
+    <MESSAGE value="좌표 정렬하기2 : 정렬 : https://www.acmicpc.net/problem/11651" />
+    <MESSAGE value="나이순 정렬 : 정렬 : https://www.acmicpc.net/problem/10814" />
+    <MESSAGE value="백준 : 미로탐색 : BFS : https://www.acmicpc.net/problem/2178" />
+    <MESSAGE value="프로그래머스 - 2018 KAKAO BLIND RECRUITMENT - [1차] 비밀지도 : https://programmers.co.kr/learn/courses/30/lessons/17681?language=java" />
+    <MESSAGE value="프로그래머스 : 3진법 뒤집기 : https://programmers.co.kr/learn/courses/30/lessons/68935?language=java" />
+    <MESSAGE value="프로그래머스 - 그래프 - 가장 먼 노드 : https://programmers.co.kr/learn/courses/30/lessons/49189?language=java" />
+    <MESSAGE value="프로그래머스 - 2017 카카오코드 예선 - 카카오프렌즈 컬러링북 : https://programmers.co.kr/learn/courses/30/lessons/1829?language=java" />
+    <MESSAGE value="알고리즘 369문제 풀이" />
+    <MESSAGE value="백준 : 수들의 합 2 : 슬라이딩 윈도우 : https://www.acmicpc.net/problem/2003" />
+    <MESSAGE value="최대공약수와 최소공배수 : 유클리드 호제법 : https://www.acmicpc.net/problem/2609" />
+    <MESSAGE value="최소공배수 : 유클리드호제법 활용 : https://www.acmicpc.net/problem/1934" />
+    <MESSAGE value="백준 문제 2470번 두 용액 : https://www.acmicpc.net/problem/2470" />
+    <MESSAGE value="프로그래머스 - 2018 KAKAO BLIND RECRUITMENT - [3차] 파일명 정렬 : https://programmers.co.kr/learn/courses/30/lessons/17686" />
+    <MESSAGE value="2020-11-08 21:00 프로그래머스 기출 문제" />
+    <MESSAGE value="백준 10872번 팩토리얼 : https://www.acmicpc.net/problem/10872" />
+    <MESSAGE value="백준 10870번 피보나치 수 5 : https://www.acmicpc.net/problem/10870" />
+    <MESSAGE value="백준 2447 별 찍기 10 : https://www.acmicpc.net/problem/2447" />
+    <MESSAGE value="ps : 백준 1145번 문제 - https://www.acmicpc.net/problem/1145" />
+    <MESSAGE value="ps : 백준 1463번 문제 : https://www.acmicpc.net/problem/1463" />
+    <MESSAGE value="[배열] 개수 세기 : https://www.acmicpc.net/problem/10807" />
+    <MESSAGE value="[배열] 알파벳 개수 : https://www.acmicpc.net/problem/10808" />
+    <MESSAGE value="그룹 단어 체커 : https://www.acmicpc.net/problem/1316" />
+    <MESSAGE value="[DFS,BFS] DFS와 BFS : https://www.acmicpc.net/problem/1260" />
+    <option name="LAST_COMMIT_MESSAGE" value="[DFS,BFS] DFS와 BFS : https://www.acmicpc.net/problem/1260" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1604503448226">
+      <screen x="71" y="0" width="1849" height="1080" />
+    </state>
+    <state x="796" y="256" key="#com.intellij.ide.util.MemberChooser/1983.0.2497.1080/63.0.1857.1080@63.0.1857.1080" timestamp="1603809331432" />
+    <state x="801" y="256" key="#com.intellij.ide.util.MemberChooser/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604503448226" />
+    <state x="759" y="424" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603978931834">
+      <screen x="71" y="0" width="1849" height="1080" />
+    </state>
+    <state x="759" y="424" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1603978931834" />
+    <state x="367" y="54" width="1276" height="1005" key="CommitChangelistDialog2" timestamp="1609858348925">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="367" y="54" width="1276" height="1005" key="CommitChangelistDialog2/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609858348925" />
+    <state x="609" y="20" key="CommitChangelistDialog2/1983.0.2497.1080/63.0.1857.1080@63.0.1857.1080" timestamp="1603806094397" />
+    <state x="2723" y="20" key="CommitChangelistDialog2/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604934600786" />
+    <state x="615" y="20" key="CommitChangelistDialog2/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604836812188" />
+    <state x="2727" y="20" key="CommitChangelistDialog2/1997.0.2483.1080/77.0.1843.1080@1997.0.2483.1080" timestamp="1607352814009" />
+    <state x="717" y="436" key="GitRewordDialog" timestamp="1609606059431">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="717" y="436" key="GitRewordDialog/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609606059431" />
+    <state width="906" height="353" key="GridCell.Tab.0.bottom" timestamp="1609772005300">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="906" height="353" key="GridCell.Tab.0.bottom/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609772005300" />
+    <state width="1814" height="4" key="GridCell.Tab.0.bottom/1983.0.2497.1080/63.0.1857.1080@63.0.1857.1080" timestamp="1603809382942" />
+    <state width="2455" height="353" key="GridCell.Tab.0.bottom/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1606317461452" />
+    <state width="1806" height="353" key="GridCell.Tab.0.bottom/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604836840130" />
+    <state width="2455" height="353" key="GridCell.Tab.0.bottom/1997.0.2483.1080/77.0.1843.1080@1997.0.2483.1080" timestamp="1607352909391" />
+    <state width="906" height="353" key="GridCell.Tab.0.center" timestamp="1609772005300">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="906" height="353" key="GridCell.Tab.0.center/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609772005300" />
+    <state width="1814" height="4" key="GridCell.Tab.0.center/1983.0.2497.1080/63.0.1857.1080@63.0.1857.1080" timestamp="1603809382942" />
+    <state width="2455" height="353" key="GridCell.Tab.0.center/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1606317461452" />
+    <state width="1806" height="353" key="GridCell.Tab.0.center/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604836840130" />
+    <state width="2455" height="353" key="GridCell.Tab.0.center/1997.0.2483.1080/77.0.1843.1080@1997.0.2483.1080" timestamp="1607352909391" />
+    <state width="906" height="353" key="GridCell.Tab.0.left" timestamp="1609772005300">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="906" height="353" key="GridCell.Tab.0.left/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609772005300" />
+    <state width="1814" height="4" key="GridCell.Tab.0.left/1983.0.2497.1080/63.0.1857.1080@63.0.1857.1080" timestamp="1603809382942" />
+    <state width="2455" height="353" key="GridCell.Tab.0.left/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1606317461452" />
+    <state width="1806" height="353" key="GridCell.Tab.0.left/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604836840130" />
+    <state width="2455" height="353" key="GridCell.Tab.0.left/1997.0.2483.1080/77.0.1843.1080@1997.0.2483.1080" timestamp="1607352909391" />
+    <state width="906" height="353" key="GridCell.Tab.0.right" timestamp="1609772005300">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="906" height="353" key="GridCell.Tab.0.right/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609772005300" />
+    <state width="1814" height="4" key="GridCell.Tab.0.right/1983.0.2497.1080/63.0.1857.1080@63.0.1857.1080" timestamp="1603809382942" />
+    <state width="2455" height="353" key="GridCell.Tab.0.right/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1606317461452" />
+    <state width="1806" height="353" key="GridCell.Tab.0.right/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604836840130" />
+    <state width="2455" height="353" key="GridCell.Tab.0.right/1997.0.2483.1080/77.0.1843.1080@1997.0.2483.1080" timestamp="1607352909391" />
+    <state width="2455" height="377" key="GridCell.Tab.1.bottom" timestamp="1604934609497">
+      <screen x="1991" y="0" width="2489" height="1080" />
+    </state>
+    <state width="1815" height="329" key="GridCell.Tab.1.bottom/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1603615246416" />
+    <state width="2455" height="377" key="GridCell.Tab.1.bottom/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604934609497" />
+    <state width="1806" height="162" key="GridCell.Tab.1.bottom/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604244549017" />
+    <state width="2455" height="377" key="GridCell.Tab.1.center" timestamp="1604934609496">
+      <screen x="1991" y="0" width="2489" height="1080" />
+    </state>
+    <state width="1815" height="329" key="GridCell.Tab.1.center/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1603615246416" />
+    <state width="2455" height="377" key="GridCell.Tab.1.center/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604934609496" />
+    <state width="1806" height="162" key="GridCell.Tab.1.center/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604244549017" />
+    <state width="2455" height="377" key="GridCell.Tab.1.left" timestamp="1604934609496">
+      <screen x="1991" y="0" width="2489" height="1080" />
+    </state>
+    <state width="1815" height="329" key="GridCell.Tab.1.left/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1603615246416" />
+    <state width="2455" height="377" key="GridCell.Tab.1.left/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604934609496" />
+    <state width="1806" height="162" key="GridCell.Tab.1.left/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604244549017" />
+    <state width="2455" height="377" key="GridCell.Tab.1.right" timestamp="1604934609497">
+      <screen x="1991" y="0" width="2489" height="1080" />
+    </state>
+    <state width="1815" height="329" key="GridCell.Tab.1.right/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1603615246416" />
+    <state width="2455" height="377" key="GridCell.Tab.1.right/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604934609497" />
+    <state width="1806" height="162" key="GridCell.Tab.1.right/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604244549017" />
+    <state x="771" y="158" key="RollbackChangesDialog" timestamp="1604243507786">
+      <screen x="71" y="0" width="1849" height="1080" />
+    </state>
+    <state x="771" y="158" key="RollbackChangesDialog/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604243507786" />
+    <state x="499" y="184" key="SettingsEditor" timestamp="1604507791541">
+      <screen x="71" y="0" width="1849" height="1080" />
+    </state>
+    <state x="492" y="184" key="SettingsEditor/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1603599094176" />
+    <state x="2567" y="184" key="SettingsEditor/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604502500681" />
+    <state x="499" y="184" key="SettingsEditor/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604507791541" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604246599407">
+      <screen x="1991" y="0" width="2489" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604246599407" />
+    <state x="583" y="269" key="Vcs.Push.Dialog.v2" timestamp="1609858351335">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="269" key="Vcs.Push.Dialog.v2/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609858351335" />
+    <state x="584" y="269" key="Vcs.Push.Dialog.v2/1983.0.2497.1080/63.0.1857.1080@63.0.1857.1080" timestamp="1603806099883" />
+    <state x="2690" y="269" key="Vcs.Push.Dialog.v2/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604420309553" />
+    <state x="590" y="269" key="Vcs.Push.Dialog.v2/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604836818163" />
+    <state x="2694" y="269" key="Vcs.Push.Dialog.v2/1997.0.2483.1080/77.0.1843.1080@1997.0.2483.1080" timestamp="1607352871439" />
+    <state x="603" y="217" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604504468219">
+      <screen x="71" y="0" width="1849" height="1080" />
+    </state>
+    <state x="603" y="217" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604504468219" />
+    <state x="437" y="256" width="1391" height="568" key="find.popup" timestamp="1609943613844">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2840" y="256" width="783" height="568" key="find.popup/1982.0.2498.1080/62.0.1858.1080@1982.0.2498.1080" timestamp="1603610479939" />
+    <state x="437" y="256" width="1391" height="568" key="find.popup/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1609943613844" />
+    <state x="2493" y="256" width="1865" height="568" key="find.popup/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604578331797" />
+    <state x="444" y="256" width="1385" height="568" key="find.popup/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604246158407" />
+    <state x="632" y="266" width="700" height="530" key="recent.locations.popup" timestamp="1603599038982">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="632" y="266" width="700" height="530" key="recent.locations.popup/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1603599038982" />
+    <state x="660" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1604504431927">
+      <screen x="71" y="0" width="1849" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/1982.0.2498.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1603613163881" />
+    <state x="2784" y="235" width="905" height="678" key="search.everywhere.popup/1991.0.2489.1080/71.0.1849.1080@1991.0.2489.1080" timestamp="1604129357424" />
+    <state x="660" y="235" width="672" height="678" key="search.everywhere.popup/1991.0.2489.1080/71.0.1849.1080@71.0.1849.1080" timestamp="1604504431927" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jito/solved/programmers/level_2_test/Problem_17.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jito/solved/programmers/challenge/oct1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jito/solved/programmers/level_2_test/Problem_25.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/GCD_LCM_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="44" lean-forward="true" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/GCD_LCM_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/GCD_LCM_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="73" column="56" lean-forward="true" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/level1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/GCD_LCM_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/Level1_skilchk.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/hash_level3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/GCD_LCM_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/bridgeTruck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13138">
-          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/programmers/Test0801_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="652" selection-start-line="652" selection-end-line="652" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jito/solved/Toss_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
