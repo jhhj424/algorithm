@@ -1,4 +1,4 @@
-package com.jito.solved.programmers.kakao2021;
+package com.jito.solved.programmers.kakao2022;
 
 
 import java.util.*;
